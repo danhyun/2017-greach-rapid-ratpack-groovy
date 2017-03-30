@@ -1,0 +1,7 @@
+plugins { // <1>
+  id 'io.ratpack.ratpack-groovy' version '1.4.5' // <2>
+}
+
+repositories {
+  jcenter() // <3>
+}
